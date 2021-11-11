@@ -5,5 +5,6 @@ public class Demo2Test {
 public void demoTest()
 {
 	System.out.println("Hi this is 2nd commit");
+	System.out.println("this is 3rd commit");
 }
 }
